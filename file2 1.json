@@ -1,0 +1,35 @@
+[
+    {
+        "path":"My_Git_Commands",
+        "revisions":11
+    },
+    {
+        "path":"pl_sql.sql",
+        "revisions":4
+    },
+    {
+        "path":"springboot_aop_auditing_hibernate_hikari_cp/src/main/resources/logg.xml",
+        "revisions":3
+    },
+    {
+        "path":"SpringCoreDI_Ex/src/main/java/com/rr/epam/config/main/GreetService.java",
+        "revisions":2
+    },
+    {
+        "path":"apple-path-assignment/articles/src/test/java/com/baji/articles/service/ArticleServiceTest.java",
+        "revisions":1
+    },
+    {
+        "path":"apple-path-assignment/articles/src/main/java/com/baji/articles/config/Swagger2Config.java",
+        "revisions":1
+    },
+    {
+        "path":"apple-path-assignment/articles/src/main/java/com/baji/articles/enums/ArticleProperty.java",
+        "revisions":1
+    },
+   {
+      "path": "SpringCoreDI_Ex/src/main/java/com/rr/epam/config/main/GreetConfig.java",
+      "revisions": 2
+   }
+   
+]

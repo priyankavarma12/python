@@ -1,0 +1,86 @@
+{
+	"components": [
+		{
+			"key": "vm:com.x.y.core:sec:/dev:src/main/X.java",
+			"path": "vm:com.x.y.core:sec:/dev:src/main/X.java",
+			"measures": [{
+				"metric": "complexity",
+				"value": 21
+			} 
+			]
+		},
+		{
+			"key": "vm:com.x.y.core:mod:/dev:src/main/Y.java",
+			"path": "pl_sql.sql",
+			"measures": [{
+				"metric": "complexity",
+				"value": 10
+			} ]
+		},
+		{
+			"key": "vm:com.x.y.core:mod:/dev:src/main/Y.java",
+			"path": "SpringCoreDI_Ex/src/test/java/com/rr/epam/config/main/test/AppConfigMainTest.java",
+			"measures": [{
+				"metric": "complexity",
+				"value": 11
+			} ]
+		},
+		{
+			"key": "vm:com.x.y.core:mod:/dev:src/main/Y.java",
+			"path": "SpringCoreDI_Ex/src/main/java/com/rr/epam/config/main/AppConfigMain.java",
+			"measures": [{
+				"metric": "complexity",
+				"value": 7
+			} ]
+		},
+		{
+			"key": "vm:com.x.y.core:mod:/dev:src/main/Y.java",
+			"path": "spring_auto_configuration/src/main/java/com/rr/spring_auto_config/general_ex/main/ApplicationMainConsole.java",
+			"measures": [{
+				"metric": "complexity",
+				"value": 14
+			} ]
+		},
+		{
+			"key": "vm:com.x.y.core:mod:/dev:src/main/Y.java",
+			"path": "spring_auto_configuration/pom.xml",
+			"measures": [{
+				"metric": "complexity",
+				"value": 9
+			} ]
+		},
+		{
+			"key": "vm:com.x.y.core:mod:/dev:src/main/Y.java",
+			"path": "apple-path-assignment/articles/src/main/java/com/baji/articles/pojos/ErrorDetails.java",
+			"measures": [{
+				"metric": "complexity",
+				"value": 4
+			} ]
+		},
+		{
+			"key": "vm:com.x.y.core:mod:/dev:src/main/Y.java",
+			"path": "SpringCoreDI_Ex/src/main/java/com/rr/epam/config/main/HelperBean.java",
+			"measures": [{
+				"metric": "complexity",
+				"value": 23
+			} ]
+		},
+		{
+			"key": "vm:com.x.y.core:mod:/dev:src/main/Y.java",
+			"path": "My_Git_Commands",
+			"measures": [{
+				"metric": "complexity",
+				"value": 43
+			} ]
+		},
+		{
+			"key": "vm:com.x.y.core:mod:/dev:src/main/Y.java",
+			"path": "SpringCoreDI_Ex/src/main/java/com/rr/epam/config/main/GreetConfig.java",
+			"measures": [{
+				"metric": "complexity",
+				"value": 31
+			} ]
+		}
+	
+	]
+}

@@ -1,0 +1,43 @@
+[
+   {
+      "path": "My_Git_Commands",
+      "revisions": 9
+   },
+   {
+      "path": "pl_sql.sql",
+      "revisions": 4
+   },
+   {
+      "path": "SpringCoreDI_Ex/src/main/java/com/rr/epam/config/main/GreetService.java",
+      "revisions": 2
+   },
+   {
+      "path": "SpringCoreDI_Ex/src/main/java/com/rr/epam/config/main/GreetConfig.java",
+      "revisions": 2
+   },
+   {
+      "path": "SpringCoreDI_Ex/src/test/java/com/rr/epam/config/main/test/AppConfigMainTest.java",
+      "revisions": 2
+   },
+   {
+      "path": "spring_auto_configuration/src/main/java/com/rr/spring_auto_config/general_ex/main/ApplicationMainConsole.java",
+      "revisions": 2
+   },
+   {
+      "path": "SpringCoreDI_Ex/src/main/java/com/rr/epam/config/main/AppConfigMain.java",
+      "revisions": 2
+   },
+   {
+      "path": "SpringCoreDI_Ex/src/main/java/com/rr/epam/config/main/HelperBean.java",
+      "revisions": 1
+   },
+   {
+      "path": "spring_auto_configuration/pom.xml",
+      "revisions": 1
+   },
+   {
+      "path": "apple-path-assignment/articles/src/main/java/com/baji/articles/pojos/ErrorDetails.java",
+      "revisions": 1
+   }
+   
+]

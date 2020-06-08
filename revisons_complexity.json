@@ -1,0 +1,64 @@
+[
+   {
+      "path": "My_Git_Commands",
+      "revisions": 9,
+	  "complexity": 43
+   },
+   {
+      "path": "pl_sql.sql",
+      "revisions": 4,
+	  "complexity": 10
+   },
+   {
+      "path": "SpringCoreDI_Ex/src/main/java/com/rr/epam/config/main/GreetService.java",
+      "revisions": 2,
+	  "complexity": 21 
+   },
+   {
+      "path": "SpringCoreDI_Ex/src/main/java/com/rr/epam/config/main/GreetConfig.java",
+      "revisions": 2,
+	  "complexity" : 31
+   },
+   {
+      "path": "SpringCoreDI_Ex/src/test/java/com/rr/epam/config/main/test/AppConfigMainTest.java",
+      "revisions": 2,
+	  "complexity": 11 
+   },
+   {
+      "path": "spring_auto_configuration/src/main/java/com/rr/config/AppConfig.java",
+      "revisions": 2,
+	  "complexity": 7
+   },
+   {
+      "path": "spring_auto_configuration/src/main/java/com/rr/spring_auto_config/general_ex/main/ApplicationMainConsole.java",
+      "revisions": 2,
+	  "complexity": 14
+   },
+   {
+      "path": "SpringCoreDI_Ex/src/main/java/com/rr/epam/config/main/AppConfigMain.java",
+      "revisions": 2,
+	  "complexity" : 0
+   },
+   {
+      "path": "SpringCoreDI_Ex/src/main/java/com/rr/epam/config/main/HelperBean.java",
+      "revisions": 1,
+	  "complexity": 23
+   },
+   {
+      "path": "spring_auto_configuration/pom.xml",
+      "revisions": 1,
+	  "complexity": 9
+	  
+   },
+   {
+      "path": "spring_auto_configuration/src/main/java/com/rr/profiles/ex/DevDB.java",
+      "revisions": 1,
+	  "complexity": 24
+   },
+   {
+      "path": "apple-path-assignment/articles/src/main/java/com/baji/articles/pojos/ErrorDetails.java",
+      "revisions": 1,
+	  "complexity": 4
+   }
+   
+]
