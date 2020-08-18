@@ -40,7 +40,7 @@ We can practice Python3 with **Trinket**. Register it to get amazing challenges 
 [Trinket for Coding](https://trinket.io/)<br>
 [Udemy Course Link](https://www.udemy.com/share/101tuyBEETc1tRQH4=/)<br>
 
-* Circles of Square with Turtle Library  
+* Circles of Square
 
 ![](https://github.com/priyankavarma12/python/blob/master/resources/ezgif.com-gif-maker.gif)
 	
