@@ -3,12 +3,10 @@ Below is the link which I have followed to learn Python3.<br>
 [Udemy Course link](https://www.udemy.com/share/101qt6BEETc1tRQH4=/)
 
 ### Tools Required 
----
 * Install Python3 
 * Install Idle IDE for Coding
 
 ### Topics in Python3
----
 * Math operators
 * Strings
 * Variables and Naming rules
@@ -37,12 +35,12 @@ Below is the link which I have followed to learn Python3.<br>
 * Emails, PDFs, Image
 
 ### Topics in Python3 GUI Trinket ###
----
 We can practice Python3 with **Trinket**. Register it to get amazing challenges on daily basis.<br>
 
 [Trinket for Coding](https://trinket.io/)<br>
 [Udemy Course Link](https://www.udemy.com/share/101tuyBEETc1tRQH4=/)<br>
 
-* Circles of Square with Turtle Library
-![](ezgif.com-gif-maker.gif)
+* Circles of Square with Turtle Library  
+
+![](https://github.com/priyankavarma12/python/blob/master/resources/ezgif.com-gif-maker.gif)
 	
